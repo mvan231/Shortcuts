@@ -1,7 +1,7 @@
 {
 "Result":"success",
-"Notes":"- Added some 'Nothing' actions to help with memory management\n- Switched to GitHub for update check",
-"Version":"1.51",
+"Notes":"- Some adjustments for memory management\n- Switched to GitHub for update check",
+"Version":"1.52",
 "Release":"2022-03-10",
-"URL":"https://www.icloud.com/shortcuts/936495d40f034e9db72660277eeec334"
+"URL":"https://www.icloud.com/shortcuts/35566ec578cf4863accd0bf9f0835d0b"
 }
