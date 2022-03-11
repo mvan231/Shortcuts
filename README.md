@@ -1,3 +1,4 @@
+![built by mvan231](https://i.imgur.com/ND22Uzq.png)
 ### Welcome to mvan231's Shortcuts Repo hosted on GitHub
 
 If you don't know, the reason why this repo exists is because of the lag that was being caused by the RoutineHub server and dissatisfaction from users of my Shortcuts.
