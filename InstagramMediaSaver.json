@@ -1,7 +1,7 @@
 {
 "Result":"success",
-"Notes":"- Some adjustments for memory management\n- Switched to GitHub for update check",
-"Version":"1.52",
-"Release":"2022-03-11",
-"URL":"https://www.icloud.com/shortcuts/35566ec578cf4863accd0bf9f0835d0b"
+"Notes":"- Adjustments for detection of graphql in pageJSON\n- Removed some unnecessary ststem version variables",
+"Version":"1.53",
+"Release":"2022-03-13",
+"URL":"https://www.icloud.com/shortcuts/2296141982b247d7b9bdb1e3e55aae45"
 }
