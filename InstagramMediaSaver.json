@@ -1,7 +1,7 @@
 {
 "Result":"success",
-"Notes":"- Adjustments for detection of graphql in pageJSON\n- Removed some unnecessary ststem version variables",
-"Version":"1.53",
-"Release":"2022-03-13",
-"URL":"https://www.icloud.com/shortcuts/2296141982b247d7b9bdb1e3e55aae45"
+"Notes":"- Adjustments for story downloads to properly grab video and photo",
+"Version":"1.54",
+"Release":"2022-03-16",
+"URL":"https://www.icloud.com/shortcuts/018e0c631cfc49938fcb87a8043c81a6"
 }
