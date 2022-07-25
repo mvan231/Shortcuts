@@ -1,7 +1,7 @@
 {
 "Result":"success",
-"Notes":"- Adjustments for story downloads to properly grab video and photo",
-"Version":"1.54",
-"Release":"2022-03-16",
-"URL":"https://www.icloud.com/shortcuts/018e0c631cfc49938fcb87a8043c81a6"
+"Notes":"- Revamp for instagram code changes and now urilizing scriptable to maintain cookies and login presence.\n- Private items can now download without safari usage (except for private story)\n- Removed periodic update check to reduce unnecessary actions now that update checks are almost instantaneous\n- Remove input type checks as no longer needed",
+"Version":"1.55",
+"Release":"2022-07-25",
+"URL":"https://www.icloud.com/shortcuts/f595a54cfe7e4ccb8043315872e16efd"
 }
