@@ -1,7 +1,7 @@
 # How to setup Make (Integromat) webhook notifications for HomeKit
 -----
 ### Items required:
-- Make account (free) available to create at [https://www.make.com](https://www.make.com/)
+- Account with Make (free) available to create at [https://www.make.com](https://www.make.com/)
 - [Integromat app (free)](https://apps.apple.com/app/id1177073656) on the device in which you want to receive notifications - this is still the app Make is using right now, it may change to a Make app later
 - [HomeKit home hub](https://support.apple.com/en-us/HT207057) for the notifications to be triggered, but can still work in other situations as well
 
