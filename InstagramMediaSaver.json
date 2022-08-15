@@ -1,7 +1,7 @@
 {
 "Result":"success",
-"Notes":"- Fix for constant rollback message",
-"Version":"1.56",
-"Release":"2022-08-01",
-"URL":"https://www.icloud.com/shortcuts/8900803e5d8649e3910fc95c1e31eb35"
+"Notes":"- Fix for caption grabbing",
+"Version":"1.57",
+"Release":"2022-08-15",
+"URL":"https://www.icloud.com/shortcuts/214b2eec991c47468110560dc8250582"
 }
