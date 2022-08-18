@@ -1,7 +1,7 @@
 {
 "Result":"success",
-"Notes":"- Fix for caption grabbing",
-"Version":"1.57",
-"Release":"2022-08-15",
-"URL":"https://www.icloud.com/shortcuts/214b2eec991c47468110560dc8250582"
+"Notes":"- Fix for when media doesn't have a caption and error appears",
+"Version":"1.58",
+"Release":"2022-08-18",
+"URL":"https://www.icloud.com/shortcuts/036739662e8e45fc82ba129593dc3b6f"
 }
