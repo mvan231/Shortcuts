@@ -38,6 +38,6 @@ The main menu presents with two optjons
 This is what the notification will look like when there is a detected holiday the next day
 ![Example Notification](https://i.imgur.com/910pSf8.png)
 
-#### To see the latest version information for the shortcut, you can [visit this link](https://raw.githubusercontent.com/mvan231/Shortcuts/main/HolidayAlarmCheck.json)
+#### To see the latest version information for the shortcut, you can [see the JSON file here](https://raw.githubusercontent.com/mvan231/Shortcuts/main/HolidayAlarmCheck.json)
 
 ## **To download v2.2 of the shortcut, [click this link (also in the above mentioned JSON)](https://www.icloud.com/shortcuts/64ce112560ec44f98a6d987c27636b76)**
