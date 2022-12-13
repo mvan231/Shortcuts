@@ -13,7 +13,7 @@ This shortcut was designed to help remind about holiday or special dates which y
 
 This shortcut operates best when setup with an automation to check for holidays / special dates without user input.
 
-To set this up, you can use a shortcut like Automation Control or Cron. You can also just as easily set it up to run in the evening. Recommend choosing 7 or 8 PM to run it.
+To set this up, you can use a shortcut like [Automation Control](https://www.reddit.com/r/shortcuts/comments/uhegr1/bday_release_update_automation_control_manage_and/) or [Cron](https://twitter.com/mvan231/status/1505907632669921285). You can also just as easily set it up to run in the evening. Recommend choosing 7 or 8 PM to run it.
 
 ![Automation Setup](https://i.imgur.com/wZajM3I.png)
 
