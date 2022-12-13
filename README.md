@@ -10,4 +10,4 @@ If you want some info about how I set this up, you can ask me or you can check o
 
 -----
 
-### Holiday Alarm Check - Check if there is a holiday or special day tomorrow and ask if alarms should be checked.
+### [Holiday Alarm Check](Holiday%20Alarm%20Check.md) - Check if there is a holiday or special day tomorrow and ask if alarms should be checked.
