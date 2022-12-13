@@ -7,16 +7,17 @@
 This shortcut was designed to help remind about holiday or special dates which you may want to disable your alarms to allow you to sleep in a bit longer.
 
 ### Setup
-Make sure the calendar name in the Find Calendar Events action is set properly. Personally, I use the subscribed holiday calendar, which is called "US Holidays" in USA.
+* Make sure the calendar name in the Find Calendar Events action is set properly. Personally, I use the subscribed holiday calendar, which is called "US Holidays" in USA.
 
-This is used to check if there is a holiday calendar event scheduled to happen 'tomorrow'
-![Calendar Setup](https://i.imgur.com/RyiM6Im.png)
+* This is used to check if there is a holiday calendar event scheduled to happen 'tomorrow'
+  ![Calendar Setup](https://i.imgur.com/RyiM6Im.png)
 
 #### Automation Setup
 
 This shortcut operates best when setup with an automation to check for holidays / special dates without user input.
 
 To set this up, you can use a shortcut like Automation Control or Cron. You can also just as easily set it up to run in the evening. Recommend choosing 7 or 8 PM to run it.
+
 ![Automation Setup](https://i.imgur.com/wZajM3I.png)
 
 ### Main Menu
@@ -24,6 +25,7 @@ The main menu presents with two optjons
 
 1. Adding Dates
 2. Removing Dates
+
 ![Menu Prompt](https://i.imgur.com/RXQPWG0.png)
 
 #### Adding Date(s)
