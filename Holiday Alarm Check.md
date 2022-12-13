@@ -7,7 +7,7 @@ This shortcut was designed to help remind about holiday or special dates which y
 * Make sure the calendar name in the Find Calendar Events action is set properly. Personally, I use the subscribed holiday calendar, which is called "US Holidays" in USA.
 
 * This is used to check if there is a holiday calendar event scheduled to happen 'tomorrow'
-  ![Calendar Setup](https://i.imgur.com/RyiM6Im.png)
+![Calendar Setup](https://i.imgur.com/RyiM6Im.png)
 
 #### Automation Setup
 
