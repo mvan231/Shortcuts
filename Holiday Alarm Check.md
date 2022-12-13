@@ -25,13 +25,13 @@ The main menu presents with two optjons
 
 ![Menu Prompt](https://i.imgur.com/RXQPWG0.png)
 
-#### Adding Date(s)
+##### Adding Date(s)
 ![Add Date](https://i.imgur.com/pI6SyEg.png)
 
-#### Selecting Notify Frequency
+##### Selecting Notify Frequency
 ![Notify Frequency Prompt](https://i.imgur.com/HknnOH8.png)
 
-#### Removing Date(s)
+##### Removing Date(s)
 ![Removing Dates](https://i.imgur.com/F9pdSEa.png)
 
 ### Example Notification
