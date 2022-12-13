@@ -6,3 +6,8 @@ If you don't know, the reason why this repo exists is because of the lag that wa
 The speed and reliability of GitHub has helped to speed up the update checks that my Shortcuts are doing tremendously.
 
 If you want some info about how I set this up, you can ask me or you can check out [my post over on r/Shortcuts](https://www.reddit.com/r/shortcuts/comments/tbw5ya/updater_issues_withroutinehub_instagram_media/).
+
+
+-----
+
+### Holiday Alarm Check - Check if there is a holiday or special day tomorrow and ask if alarms should be checked.
