@@ -1,7 +1,7 @@
 {
 "Result":"success",
-"Notes":"- Fix caption grabbing / saving",
-"Version":"1.59",
-"Release":"2023-01-09",
-"URL":"https://www.icloud.com/shortcuts/68a0a9a84530480f8c19d333626ffe9b"
+"Notes":"- Remove debugging step",
+"Version":"1.60",
+"Release":"2023-01-10",
+"URL":"https://www.icloud.com/shortcuts/3b2747acd51d498483aafd5bc6291700"
 }
