@@ -22,7 +22,7 @@
 14. Tap / Click the Add button![](https://i.imgur.com/d5jvn9W.png)![](https://i.imgur.com/Wldca2d.png)
 15. Now would be the time to tap the App Store button to install Integromat unless you already have the app installed.
 16. Once in Integromat, make sure you login with the same account as you use on Make and go to the scanner to scan the QR code (or enter the code manually) to register your device to your account and provide a name for the device (this is a manually entered name that must match between the Integromat app and the Make scenario![](https://i.imgur.com/soH6hPS.jpg)
-17. In the notification options, enable "Get request headers" and "JSON pass-through"![](https://i.imgur.com/xlsZ5i4.png)
+17. In the webhook "notification" advanced options, enable "Get request headers" and "JSON pass-through"![](https://i.imgur.com/xlsZ5i4.png)
 18. If on Mobile device, you will need to collapse some of the option items to see the button to OK / Save the changes
 19. Now we can setup the data structure that the webhook will receive. Thanks to their easy process, we can do this quickly with a shortcut. I preferred to set it up with a form entry named "item" and then the value for "item" is what the notification displays. This allows for customized notifications to be sent easily.
 	1. Using the webhook URL we copied earlier, we will now create a shortcut. 
