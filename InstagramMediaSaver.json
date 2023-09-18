@@ -1,7 +1,7 @@
 {
 "Result":"success",
-"Notes":"- Add condition for new media?id method in IG HTML",
-"Version":"1.61",
-"Release":"2023-02-13",
-"URL":"https://www.icloud.com/shortcuts/6951426366ad40138c2cbb71f9ae4c06"
+"Notes":"- refinement on stories download method\n- add ability for downloading highlights\n- Add X-IG-App-ID for initial post info Get Contents of URL action",
+"Version":"1.62",
+"Release":"2023-09-18",
+"URL":"https://www.icloud.com/shortcuts/cb740656bd144b6585a4bc3ba8d582ce"
 }
