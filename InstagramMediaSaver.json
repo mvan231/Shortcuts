@@ -1,7 +1,7 @@
 {
 "Result":"success",
-"Notes":"- refinement on stories download method\n- add ability for downloading highlights\n- Add X-IG-App-ID for initial post info Get Contents of URL action",
-"Version":"1.62",
-"Release":"2023-09-18",
-"URL":"https://www.icloud.com/shortcuts/cb740656bd144b6585a4bc3ba8d582ce"
+"Notes":"- fix issue in repeat loop referencing wrong item",
+"Version":"1.63",
+"Release":"2023-09-27",
+"URL":"https://www.icloud.com/shortcuts/e11869e8aebf49898d22db219b13cd9d"
 }
