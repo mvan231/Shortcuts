@@ -1,7 +1,7 @@
 {
 "Result":"success",
-"Notes":"- fix issue in repeat loop referencing wrong item",
-"Version":"1.63",
-"Release":"2023-09-27",
-"URL":"https://www.icloud.com/shortcuts/e11869e8aebf49898d22db219b13cd9d"
+"Notes":"- modify method for downloading profile picture to get full HD res 1080x1080 picture\n- adjust updater mechanism",
+"Version":"1.64",
+"Release":"2023-11-09",
+"URL":"https://www.icloud.com/shortcuts/a61ecc5a88b44b1883920c8c1559da43"
 }
