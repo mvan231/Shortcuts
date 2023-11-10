@@ -1,7 +1,7 @@
 {
 "Result":"success",
-"Notes":"- Adjustments in RegEx for grabbing URLs when sharing from safari for long video links\n- Switched to GitHub for update check",
-"Version":"1.8",
-"Release":"2022-03-11",
-"URL":"https://www.icloud.com/shortcuts/11407671cad74e3790ecf3c4e48d2d06"
+"Notes":"- change to usage of aShell Mini (yt-dlp)\n- removed safari type check and download section\n- switch to UpdateKit API for update check location",
+"Version":"1.9",
+"Release":"2023-11-10",
+"URL":"https://www.icloud.com/shortcuts/cedbbc97847a4409860b19f8c0168a64"
 }
